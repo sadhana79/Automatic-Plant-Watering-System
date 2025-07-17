@@ -1,5 +1,5 @@
 🌱 Automatic Plant Watering System
-🗓️ Developed in 2023 | Uploaded for portfolio reference
+🗓️ Developed in 2022 | Uploaded for portfolio reference
 
 An IoT-based project designed to automatically water plants based on soil moisture levels. It helps save water, ensures plant health, and reduces human effort by automating irrigation.
 
@@ -22,7 +22,7 @@ Power Supply
 
 📸 Screenshots
 Circuit diagram image
-![Plant Image](https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/plant.jpeg)
+<img src="https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/plant.jpeg" alt="Plant Image" width="400"/>
 ![Circuit Diagram](https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/circuit%20diagram.png)
 
 📖 How It Works
@@ -36,3 +36,4 @@ Add mobile app or web dashboard using IoT
 Schedule watering with RTC (Real-Time Clock)
 Solar-powered setup
 
+*Last developed by Sadhana Gonge in 2022
