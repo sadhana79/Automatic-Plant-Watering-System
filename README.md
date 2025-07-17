@@ -1,4 +1,4 @@
-🌱 Automatic Plant Watering System
+# 🚿 Automatic Plant Watering System – IoT Based Project
 🗓️ Developed in 2022 | Uploaded for portfolio reference
 
 An IoT-based project designed to automatically water plants based on soil moisture levels. It helps save water, ensures plant health, and reduces human effort by automating irrigation.
@@ -21,9 +21,12 @@ Arduino UNO
 Breadboard & Jumper Wires
 Power Supply
 
+
 📸 Screenshots
 <img src="https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/plant.jpeg" alt="Plant Image" width="400"/>
+
 ![Circuit Diagram](https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/circuit%20diagram.png)
+
 
 📖 How It Works
 The sensor detects soil moisture level.
