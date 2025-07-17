@@ -21,7 +21,6 @@ Breadboard & Jumper Wires
 Power Supply
 
 📸 Screenshots
-Circuit diagram image
 <img src="https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/plant.jpeg" alt="Plant Image" width="400"/>
 ![Circuit Diagram](https://raw.githubusercontent.com/sadhana79/Automatic-Plant-Watering-System/main/circuit%20diagram.png)
 
