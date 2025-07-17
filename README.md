@@ -40,4 +40,4 @@ Add mobile app or web dashboard using IoT
 Schedule watering with RTC (Real-Time Clock)
 Solar-powered setup
 
-*Last developed by Sadhana Gonge in 2022
+*developed by Sadhana Gonge in 2022
