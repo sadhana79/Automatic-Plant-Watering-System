@@ -3,7 +3,8 @@
 
 An IoT-based project designed to automatically water plants based on soil moisture levels. It helps save water, ensures plant health, and reduces human effort by automating irrigation.
 
-📌 Project Overview
+Project Overview
+
 This system uses:
 Soil Moisture Sensor to monitor moisture levels
 Arduino/NodeMCU for controlling the logic
