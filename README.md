@@ -1,4 +1,4 @@
-🌱 Automatic Plant Watering System
+🌱 <h2>Automatic Plant Watering System<h2>
 🗓️ Developed in 2022 | Uploaded for portfolio reference
 
 An IoT-based project designed to automatically water plants based on soil moisture levels. It helps save water, ensures plant health, and reduces human effort by automating irrigation.
