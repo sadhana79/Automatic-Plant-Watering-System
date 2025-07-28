@@ -2,7 +2,9 @@
 🗓️ Developed in 2022 | Uploaded for portfolio reference
 
 An IoT-based project designed to automatically water plants based on soil moisture levels. It helps save water, ensures plant health, and reduces human effort by automating irrigation.
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://youtu.be/S71nNMQyPcY?si=_vHOjOuf8L3QhL6h)
+Here’s a live demo of our **IoT Automatic Plant Watering System** project:
+
+[![Watch the video](https://img.youtube.com/vi/S71nNMQyPcY/hqdefault.jpg)](https://youtu.be/S71nNMQyPcY)
 Project Overview
 
 This system uses:
